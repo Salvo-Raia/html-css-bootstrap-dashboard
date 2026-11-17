@@ -1,6 +1,6 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 11/50 - Book Catalog (Catalogo libri)
+# 🎓 Exercise 11/50: Book Catalog
 
 Creating a responsive Bootstrap 5 dashboard and adding a new page with a form.
 
@@ -38,13 +38,9 @@ In particular:
 
 **Remember:** `form` tags and input fields are HTML elements. Bootstrap helps us style them more easily through its classes!
 
-### 💡 Suggestions & Notes
+### 🔎 Notes
 
-Bootstrap provides many ready-made components that can be used as they are (**as-is**) or with some customization.
-
-Some components have already been covered in class, while others can be found in the official framework documentation.
-
-Whenever you want to use a Bootstrap component:
+Bootstrap provides many ready-made components that can be used as they are (**as-is**) or with some customization. Some components have already been covered in class, while others can be found in the official framework documentation. Whenever you want to use a Bootstrap component:
 
 1. Test it in a separate file first.
 2. Copy the example code from the official documentation.
@@ -53,11 +49,9 @@ Whenever you want to use a Bootstrap component:
 
 Following this approach will help keep the amount of custom CSS code relatively small.
 
-### 📩 Form Submission
+#### 📩 Form Submission
 
-Use the following URL as the form's `action` attribute to test data submission:
-
-`https://learning.tizianonicolai.com/request-catcher/`
+Use the following URL as the form's `action` attribute to test data submission: https://learning.tizianonicolai.com/request-catcher/
 
 ## 🛠️ Technologies
 
@@ -74,4 +68,4 @@ Use the following URL as the form's `action` attribute to test data submission:
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
