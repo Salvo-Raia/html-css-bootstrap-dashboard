@@ -1,10 +1,10 @@
 ![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 11/50: Book Catalog
+# Exercise 11/50: Book Catalog
 
 Creating a responsive Bootstrap 5 dashboard and adding a new page with a form.
 
-## 📌 Project Overview
+## Project Overview
 
 | Property | Details |
 |:--|:--|
@@ -13,7 +13,7 @@ Creating a responsive Bootstrap 5 dashboard and adding a new page with a form.
 | Type | Exercise |
 | Exercise | 11/50 |
 
-## 🎯 Assignment
+## Assignment
 
 #### 1. Responsive Dashboard
 
@@ -36,7 +36,9 @@ In particular:
 
 **Remember:** `form` tags and input fields are HTML elements. Bootstrap helps us style them more easily through its classes!
 
-### 🔎 Notes
+---
+
+**Notes**
 
 Bootstrap provides many ready-made components that can be used as they are (**as-is**) or with some customization. Some components have already been covered in class, while others can be found in the official framework documentation. Whenever you want to use a Bootstrap component:
 
@@ -47,17 +49,15 @@ Bootstrap provides many ready-made components that can be used as they are (**as
 
 Following this approach will help keep the amount of custom CSS code relatively small.
 
-#### 📩 Form Submission
-
 Use the following URL as the form's `action` attribute to test data submission
 
 `https://learning.tizianonicolai.com/request-catcher/`
 
-## 🛠️ Technologies
+## Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 💡 What I Learned
+## What I learned
 
 - Building responsive dashboards using Bootstrap 5.
 - Working with Bootstrap's ready-made components and utility classes.
@@ -66,6 +66,6 @@ Use the following URL as the form's `action` attribute to test data submission
 - Managing responsive layouts and spacing with margin and padding utilities.
 - Reducing custom CSS by taking advantage of Bootstrap's built-in features.
 
-## ©️ Credits
+## Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
