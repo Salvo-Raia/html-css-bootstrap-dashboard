@@ -15,15 +15,13 @@ Creating a responsive Bootstrap 5 dashboard and adding a new page with a form.
 
 ## 🎯 Assignment
 
-### 1. Responsive Dashboard
+#### 1. Responsive Dashboard
 
-Recreate the responsive layout of a dashboard, representing the control panel of a hypothetical web application, following the provided reference screenshots.
-
-The layout must be built using **Bootstrap 5**.
+Recreate the responsive layout of a dashboard, representing the control panel of a hypothetical web application, following the provided reference screenshots. The layout must be built using **Bootstrap 5**.
 
 Keep the official Bootstrap documentation at hand to make proper use of the framework's main features. Components, helper classes and utilities may also come in handy.
 
-### 2. Add a New Page with a Form
+#### 2. Add a New Page with a Form
 
 Add a new page to the dashboard, following the provided reference screenshots.
 
@@ -51,7 +49,9 @@ Following this approach will help keep the amount of custom CSS code relatively 
 
 #### 📩 Form Submission
 
-Use the following URL as the form's `action` attribute to test data submission: https://learning.tizianonicolai.com/request-catcher/
+Use the following URL as the form's `action` attribute to test data submission
+
+`https://learning.tizianonicolai.com/request-catcher/`
 
 ## 🛠️ Technologies
 
