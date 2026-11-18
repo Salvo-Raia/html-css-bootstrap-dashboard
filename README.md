@@ -36,9 +36,11 @@ In particular:
 
 **Remember:** `form` tags and input fields are HTML elements. Bootstrap helps us style them more easily through its classes!
 
----
+Use the following URL as the form's `action` attribute to test data submission
 
-**Notes**
+`https://learning.tizianonicolai.com/request-catcher/`
+
+##### Notes
 
 Bootstrap provides many ready-made components that can be used as they are (**as-is**) or with some customization. Some components have already been covered in class, while others can be found in the official framework documentation. Whenever you want to use a Bootstrap component:
 
@@ -48,10 +50,6 @@ Bootstrap provides many ready-made components that can be used as they are (**as
 4. Only then integrate it into your layout.
 
 Following this approach will help keep the amount of custom CSS code relatively small.
-
-Use the following URL as the form's `action` attribute to test data submission
-
-`https://learning.tizianonicolai.com/request-catcher/`
 
 ## Technologies
 
