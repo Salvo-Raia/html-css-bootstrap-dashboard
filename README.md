@@ -20,7 +20,7 @@ Recreate the responsive layout of a dashboard, representing the control panel of
 
 Keep the official Bootstrap documentation at hand to make proper use of the framework's main features. Components, helper classes and utilities may also come in handy.
 
-#### Milestone 2: Add a new Page with a form
+#### Milestone 2: Add a new page with a form
 
 Add a new page to the dashboard, following the provided reference screenshots.
 
