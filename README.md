@@ -8,7 +8,7 @@ Creating a responsive Bootstrap 5 dashboard and adding a new page with a form.
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| html-css-bootstrap-dashboard | Book Catalog | Exercise | Bootstrap 5 Dashboard & Forms | 11/50 |
+| html-css-bootstrap-dashboard | Book Catalog | Exercise | Bootstrap 5 Dashboard & Form | 11/50 |
 
 ## Assignment
 
@@ -52,7 +52,9 @@ Following this approach will help keep the amount of custom CSS code relatively 
 
 ## Technologies
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ## What I learned
 
