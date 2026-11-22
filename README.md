@@ -14,13 +14,13 @@ Creating a responsive Bootstrap 5 dashboard and adding a new page with a form.
 
 Complete the dashboard layout first, then extend it by adding a new page with a form, using Bootstrap 5 components and utilities throughout both tasks.
 
-#### Milestone 1: Responsive Dashboard
+#### Milestone 1: Responsive dashboard
 
 Recreate the responsive layout of a dashboard, representing the control panel of a hypothetical web application, following the provided reference screenshots. The layout must be built using **Bootstrap 5**.
 
 Keep the official Bootstrap documentation at hand to make proper use of the framework's main features. Components, helper classes and utilities may also come in handy.
 
-#### Milestone 2: Add a New Page with a Form
+#### Milestone 2: Add a new Page with a form
 
 Add a new page to the dashboard, following the provided reference screenshots.
 
