@@ -8,7 +8,7 @@ Creating a responsive Bootstrap 5 dashboard and adding a new page with a form.
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| html-css-bootstrap-dashboard | Book Catalog | Exercise | Bootstrap & Form | 11/50 |
+| html-css-bootstrap-dashboard | Book Catalog | Exercise | Bootstrap, form | 11/50 |
 
 ## Assignment
 
