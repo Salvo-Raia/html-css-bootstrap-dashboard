@@ -8,7 +8,7 @@ Creating a responsive Bootstrap 5 dashboard and adding a new page with a form.
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| html-css-bootstrap-dashboard | Book Catalog | Exercise | Bootstrap 5 Dashboard & Form | 11/50 |
+| html-css-bootstrap-dashboard | Book Catalog | Exercise | Bootstrap & Form | 11/50 |
 
 ## Assignment
 
@@ -35,7 +35,7 @@ In particular:
 
 **Remember:** `form` tags and input fields are HTML elements. Bootstrap helps us style them more easily through its classes!
 
-Use the following URL as the form's `action` attribute to test data submission
+Use the following URL as the form's `action` attribute to test data submission.
 
 `https://learning.tizianonicolai.com/request-catcher/`
 
