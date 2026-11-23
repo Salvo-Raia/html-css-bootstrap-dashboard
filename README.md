@@ -26,7 +26,7 @@ Add a new page to the dashboard, following the provided reference screenshots.
 
 Build the page using HTML forms and input elements styled with **Bootstrap 5**.
 
-Keep the official documentation at hand to make proper use of the framework's features, including components, helper classes and utilities.
+Refer to the official documentation for guidance on using Bootstrap components, helper classes and utilities.
 
 In particular:
 
